@@ -1,0 +1,15 @@
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\Exefuncao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\Exefuncao.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\Exefuncao.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\Exefuncao.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\Exefuncao.sourcelink.json
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\bin\Debug\net8.0\Exefuncao.exe
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\bin\Debug\net8.0\Exefuncao.deps.json
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\bin\Debug\net8.0\Exefuncao.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\bin\Debug\net8.0\Exefuncao.dll
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\bin\Debug\net8.0\Exefuncao.pdb
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\Exefuncao.dll
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\refint\Exefuncao.dll
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\Exefuncao.pdb
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\Exefuncao.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\Aulas\Exefuncao\obj\Debug\net8.0\ref\Exefuncao.dll

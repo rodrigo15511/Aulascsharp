@@ -1,0 +1,13 @@
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.sourcelink.json
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.dll
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.pdb
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\bin\Debug\net8.0\aula6matriz.exe
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\bin\Debug\net8.0\aula6matriz.deps.json
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\bin\Debug\net8.0\aula6matriz.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\bin\Debug\net8.0\aula6matriz.dll
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\bin\Debug\net8.0\aula6matriz.pdb
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\Aula\aula6matriz\obj\Debug\net8.0\aula6matriz.AssemblyInfo.cs

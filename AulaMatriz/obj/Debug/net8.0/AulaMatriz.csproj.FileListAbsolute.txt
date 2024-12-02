@@ -1,0 +1,5 @@
+C:\Users\rodrigoterra\Desktop\Aula\AulaMatriz\obj\Debug\net8.0\AulaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\Aula\AulaMatriz\obj\Debug\net8.0\AulaMatriz.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\Aula\AulaMatriz\obj\Debug\net8.0\AulaMatriz.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\Aula\AulaMatriz\obj\Debug\net8.0\AulaMatriz.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\Aula\AulaMatriz\obj\Debug\net8.0\AulaMatriz.sourcelink.json
