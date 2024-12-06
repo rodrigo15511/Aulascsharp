@@ -1,0 +1,15 @@
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\bin\Debug\net8.0\Aula16Herança.exe
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\bin\Debug\net8.0\Aula16Herança.deps.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\bin\Debug\net8.0\Aula16Herança.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\bin\Debug\net8.0\Aula16Herança.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\bin\Debug\net8.0\Aula16Herança.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\Aula16Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\Aula16Herança.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\Aula16Herança.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\Aula16Herança.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\Aula16Herança.sourcelink.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\Aula16Herança.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\refint\Aula16Herança.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\Aula16Herança.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\Aula16Herança.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16Herança\obj\Debug\net8.0\ref\Aula16Herança.dll

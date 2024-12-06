@@ -1,0 +1,15 @@
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\Aula16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\Aula16.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\Aula16.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\Aula16.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\Aula16.sourcelink.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\bin\Debug\net8.0\Aula16.exe
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\bin\Debug\net8.0\Aula16.deps.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\bin\Debug\net8.0\Aula16.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\bin\Debug\net8.0\Aula16.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\bin\Debug\net8.0\Aula16.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\Aula16.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\refint\Aula16.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\Aula16.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\Aula16.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula16\obj\Debug\net8.0\ref\Aula16.dll
