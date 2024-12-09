@@ -1,0 +1,5 @@
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula17exeabstrato\obj\Debug\net8.0\Aula17exeabstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula17exeabstrato\obj\Debug\net8.0\Aula17exeabstrato.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula17exeabstrato\obj\Debug\net8.0\Aula17exeabstrato.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula17exeabstrato\obj\Debug\net8.0\Aula17exeabstrato.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula17exeabstrato\obj\Debug\net8.0\Aula17exeabstrato.sourcelink.json
