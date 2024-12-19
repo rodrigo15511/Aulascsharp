@@ -1,0 +1,15 @@
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\ExercicioDia19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\ExercicioDia19.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\ExercicioDia19.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\ExercicioDia19.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\ExercicioDia19.sourcelink.json
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\bin\Debug\net8.0\ExercicioDia19.exe
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\bin\Debug\net8.0\ExercicioDia19.deps.json
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\bin\Debug\net8.0\ExercicioDia19.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\bin\Debug\net8.0\ExercicioDia19.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\bin\Debug\net8.0\ExercicioDia19.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\ExercicioDia19.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\refint\ExercicioDia19.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\ExercicioDia19.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\ExercicioDia19.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\ExercicioDia19\obj\Debug\net8.0\ref\ExercicioDia19.dll
