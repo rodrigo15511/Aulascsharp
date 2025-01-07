@@ -1,0 +1,5 @@
+C:\Users\rodrigoterra\Desktop\AULAC#\Exedia07.01\obj\Debug\net8.0\Exedia07.01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\AULAC#\Exedia07.01\obj\Debug\net8.0\Exedia07.01.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Exedia07.01\obj\Debug\net8.0\Exedia07.01.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\AULAC#\Exedia07.01\obj\Debug\net8.0\Exedia07.01.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Exedia07.01\obj\Debug\net8.0\Exedia07.01.sourcelink.json
