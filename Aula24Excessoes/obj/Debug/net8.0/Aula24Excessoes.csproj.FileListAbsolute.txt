@@ -1,0 +1,15 @@
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\bin\Debug\net8.0\Aula24Excessoes.exe
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\bin\Debug\net8.0\Aula24Excessoes.deps.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\bin\Debug\net8.0\Aula24Excessoes.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\bin\Debug\net8.0\Aula24Excessoes.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\bin\Debug\net8.0\Aula24Excessoes.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\Aula24Excessoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\Aula24Excessoes.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\Aula24Excessoes.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\Aula24Excessoes.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\Aula24Excessoes.sourcelink.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\Aula24Excessoes.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\refint\Aula24Excessoes.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\Aula24Excessoes.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\Aula24Excessoes.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula24Excessoes\obj\Debug\net8.0\ref\Aula24Excessoes.dll
