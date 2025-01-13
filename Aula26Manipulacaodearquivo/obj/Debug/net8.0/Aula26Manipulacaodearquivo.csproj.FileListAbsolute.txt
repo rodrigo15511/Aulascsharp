@@ -1,0 +1,15 @@
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\bin\Debug\net8.0\Aula26Manipulacaodearquivo.exe
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\bin\Debug\net8.0\Aula26Manipulacaodearquivo.deps.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\bin\Debug\net8.0\Aula26Manipulacaodearquivo.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\bin\Debug\net8.0\Aula26Manipulacaodearquivo.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\bin\Debug\net8.0\Aula26Manipulacaodearquivo.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\Aula26Manipulacaodearquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\Aula26Manipulacaodearquivo.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\Aula26Manipulacaodearquivo.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\Aula26Manipulacaodearquivo.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\Aula26Manipulacaodearquivo.sourcelink.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\Aula26Manipulacaodearquivo.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\refint\Aula26Manipulacaodearquivo.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\Aula26Manipulacaodearquivo.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\Aula26Manipulacaodearquivo.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula26Manipulacaodearquivo\obj\Debug\net8.0\ref\Aula26Manipulacaodearquivo.dll
