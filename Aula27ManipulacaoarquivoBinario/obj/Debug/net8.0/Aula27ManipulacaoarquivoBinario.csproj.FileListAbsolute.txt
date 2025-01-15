@@ -1,0 +1,15 @@
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\bin\Debug\net8.0\Aula27ManipulacaoarquivoBinario.exe
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\bin\Debug\net8.0\Aula27ManipulacaoarquivoBinario.deps.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\bin\Debug\net8.0\Aula27ManipulacaoarquivoBinario.runtimeconfig.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\bin\Debug\net8.0\Aula27ManipulacaoarquivoBinario.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\bin\Debug\net8.0\Aula27ManipulacaoarquivoBinario.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\Aula27ManipulacaoarquivoBinario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\Aula27ManipulacaoarquivoBinario.AssemblyInfoInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\Aula27ManipulacaoarquivoBinario.AssemblyInfo.cs
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\Aula27ManipulacaoarquivoBinario.csproj.CoreCompileInputs.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\Aula27ManipulacaoarquivoBinario.sourcelink.json
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\Aula27ManipulacaoarquivoBinario.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\refint\Aula27ManipulacaoarquivoBinario.dll
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\Aula27ManipulacaoarquivoBinario.pdb
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\Aula27ManipulacaoarquivoBinario.genruntimeconfig.cache
+C:\Users\rodrigoterra\Desktop\AULAC#\Aula27ManipulacaoarquivoBinario\obj\Debug\net8.0\ref\Aula27ManipulacaoarquivoBinario.dll
